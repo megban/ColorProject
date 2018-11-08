@@ -9,7 +9,12 @@ h1
 }
 span
 {
-  color:white;
+  color:black;
+}
+
+#colorDisplay
+{
+  color: white;
 }
 .square
 {
@@ -24,4 +29,11 @@ span
 {
   margin: 0 auto;
   max-width: 600px;
+}
+
+#stripe
+{
+  height = 30px;
+  text-align: center;
+  background-color: white;
 }
